@@ -14,7 +14,7 @@
   "result": {
       "result": "OK"
   },
-  "api": {
+  "api/barcode": {
       "barcode": {
         "barcode": "abcdeef12443"
       },
