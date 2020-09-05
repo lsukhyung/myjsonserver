@@ -8,12 +8,18 @@
   "profile": {
     "name": "typicode"
   },
+  "barcode": {
+      "barcode": "abcdeef12443"
+  },
+  "result": {
+      "result": "OK"
+  },
   "api": {
       "barcode": {
         "barcode": "abcdeef12443"
       },
       "result": {
         "result": "OK"
-      },
+      }
   }
 }
