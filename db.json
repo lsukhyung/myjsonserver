@@ -9,6 +9,11 @@
     "name": "typicode"
   },
   "api": {
-    "barcode": "abcdeef12443"
+      "barcode": {
+        "barcode": "abcdeef12443"
+      },
+      "result": {
+        "result": "OK"
+      },
   }
 }
