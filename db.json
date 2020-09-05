@@ -13,4 +13,7 @@
     		"barcode": "abcdef12443"
   	}
   }
+  "api/barcode": {
+    	"barcode": "abcdef12443"
+  }
 }
